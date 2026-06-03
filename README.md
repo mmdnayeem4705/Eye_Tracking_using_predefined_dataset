@@ -130,11 +130,6 @@ If eyes remain closed for more than **15 seconds**:
 
 #### Warning Level 4️⃣ and Beyond 🚨
 
-An emergency alert sound is triggered:
-
-```text
-alert_sound.wav
-```
 
 This indicates a potentially dangerous level of drowsiness.
 
@@ -170,45 +165,8 @@ Count Duration
       └── Yes ➜ Trigger Warning Alert 🔔
 ```
 
----
-
-## 💻 Installation
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/eye-tracking-system.git
-```
-
-### 2️⃣ Navigate to Project
-
-```bash
-cd eye-tracking-system
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install opencv-python
-```
-
----
-
-## ▶️ Run the Project
-
-```bash
-python eye_detection_tracking.py
-```
-
----
 
 ## 🎯 Output
-
-The application displays:
-
-✅ Live webcam feed
-
-✅ Face detection rectangles
 
 ✅ Eye detection rectangles
 
@@ -244,20 +202,6 @@ Warning Level: 4️⃣
 ```
 
 ---
-
-## 🎯 Applications
-
-🚗 Driver Drowsiness Detection
-
-🏭 Industrial Worker Monitoring
-
-🎓 Student Attention Monitoring
-
-🏥 Patient Observation Systems
-
-🛡️ Workplace Safety Solutions
-
-✈️ Transportation Safety Systems
 
 
 ## ⭐ Conclusion
